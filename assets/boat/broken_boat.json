@@ -1,0 +1,11 @@
+{
+  "frames": [
+    {
+      "position": { "x": 0, "y": 0, "w": 499, "h": 499 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 250 },
+      "sourceSize": { "w": 499, "h": 499 }
+    }
+  ]
+}
